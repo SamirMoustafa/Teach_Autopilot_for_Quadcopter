@@ -1,4 +1,5 @@
 # DeepRL Quadcopter Controller
+_[![Watch the video](notebooks/images/quadcopter_tumble.png)](notebooks/images/quadcopter_tumble.mp4)_
 
 _Teach a Quadcopter How to Fly!_
 
