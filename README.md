@@ -2,7 +2,7 @@
 
 _Teach a Quadcopter How to Fly!_
 
-In this project, you will design a Deep Reinforcement Learning agent to control several quadcopter flying tasks, including take-off, hover and landing.
+Deep Reinforcement Learning agent to control several quadcopter flying tasks, including take-off, hover and landing.
 
 
 # Table of Contents
@@ -15,7 +15,7 @@ In this project, you will design a Deep Reinforcement Learning agent to control 
 
 # Install
 
-This project uses ROS (Robot Operating System) as the primary communication mechanism between your agent and the simulation. You can either install it on your own machine ("native install"), or use a Udacity-provided Virtual Machine (recommended).
+This project uses ROS (Robot Operating System) as the primary communication mechanism between agent and the simulation. You can either install it on your own machine ("native install"), or use the provided Virtual Machine (recommended).
 
 ## ROS Virtual Machine
 
@@ -70,9 +70,6 @@ Install the Python packages necessary for this project, listed in `requirements.
 ```bash
 $ pip3 install -r requirements.txt
 ```
-
-You may need some additional packages, depending on what framework or library you intend to use, e.g. TensorFlow, Keras, PyTorch, etc. Now is a good time to ensure you have these installed.
-
 ## Simulator
 
 Download the Udacity Quadcopter Simulator, nicknamed **DroneSim**, for your host computer OS [here](https://github.com/udacity/RoboND-Controls-Lab/releases). 
